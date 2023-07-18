@@ -6,11 +6,10 @@ let randomeAdjectives = [];
 let randomWords = [];
 
 /*
-💻 Write your generateInsult() function here
+💻 Write the code to generate the insult here
 */
-function generateInsult() {
 
-  document.getElementById("insult-spot").innerText = "Unwritten Insult"
-}
+// Change "Unwritten Insult" to your insult variable
+document.getElementById("insult-spot").innerText = "Unwritten Insult"
 
-// 🧩 Open the index.html file and add an onclick to the pig image that calls the generateInsult() function
+
